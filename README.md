@@ -1,16 +1,44 @@
-## Hi there 👋
+# About Me:
 
-<!--
-**gorkemkaragoz/gorkemkaragoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👋 Hi, I’m Görkem Karagöz.  
+- 💻 I started my journey with iOS development (Swift) but later discovered my passion for backend development.  
+- 🔧 I’m currently focused on **Java, Spring Boot, Angular, and MySQL**.  
+- 📚 Learning about **Spring Security (JWT), REST APIs, and AWS S3** through my projects.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Connect with me:
+
+<a href="https://www.linkedin.com/in/g%C3%B6rkem-karag%C3%B6z-91312a229/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+</a>
+<a href="https://www.hackerrank.com/profile/gorkem1928karag1" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hackerrank.svg" alt="HackerRank" width="40" height="40"/>
+</a>
+<a href="https://medium.com/@gorkem1928karagoz" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" alt="Medium" width="40" height="40"/>
+</a>
+
+---
+
+## 🛠 Technologies:
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="50" height="50"/>
+</p>
+
+---
+
+## 🔧 Tools:
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" height="50"/>
+</p>
