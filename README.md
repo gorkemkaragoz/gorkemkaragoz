@@ -12,11 +12,13 @@
 <a href="https://www.linkedin.com/in/g%C3%B6rkem-karag%C3%B6z-91312a229/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
 </a>
+
 <a href="https://www.hackerrank.com/profile/gorkem1928karag1" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hackerrank.svg" alt="HackerRank" width="40" height="40"/>
+  <img src="hackerrank.png" alt="HackerRank" width="40" height="40"/>
 </a>
+
 <a href="https://medium.com/@gorkem1928karagoz" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" alt="Medium" width="40" height="40"/>
+  <img src="medium.png" alt="Medium" width="40" height="40"/>
 </a>
 
 ---
