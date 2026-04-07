@@ -1,8 +1,9 @@
-# About Me:
-- 👋 Hi, I'm Görkem Karagöz.
-- 💻 I started my journey with iOS development (Swift) but later discovered my passion for backend development.
-- 🔧 I'm currently focused on **Java, Spring Boot, Angular, and MySQL**.
-- 📚 Learning about **Spring Security (JWT), REST APIs, Docker, and AWS S3** through my projects.
+## About Me
+
+- 👋 Hi, I'm Görkem — a backend developer passionate about **Java & Spring Boot**
+- 🔨 I love building clean, well-structured REST APIs and constantly improving my craft
+- 📖 I learn by doing — every concept I study gets turned into a working project
+- 🎯 Actively seeking a **backend developer role** where I can grow and contribute
 
 ---
 
