@@ -1,9 +1,9 @@
 ## About Me
 
-- 👋 Hi, I'm Görkem — a backend developer passionate about **Java & Spring Boot**
-- 🔨 I love building clean, well-structured REST APIs and constantly improving my craft
-- 📖 I learn by doing — every concept I study gets turned into a working project
-- 🎯 Actively seeking a **backend developer role** where I can grow and contribute
+-  Hi, I'm Görkem — a backend developer passionate about **Java & Spring Boot**
+-  I love building clean, well-structured REST APIs and constantly improving my craft
+-  I learn by doing — every concept I study gets turned into a working project
+-  Actively seeking a **backend developer role** where I can grow and contribute
 
 ---
 
