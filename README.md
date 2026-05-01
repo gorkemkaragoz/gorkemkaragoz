@@ -44,3 +44,7 @@ I build REST APIs with clean architecture and a strong emphasis on security and 
 <a href="https://www.linkedin.com/in/g%C3%B6rkem-karag%C3%B6z-91312a229/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
 </a>
+&nbsp;
+<a href="https://www.hackerrank.com/profile/gorkem1928karag1" target="_blank">
+  <img src="https://raw.githubusercontent.com/gorkemkaragoz/gorkemkaragoz/main/hackerrank.png" width="40"/>
+</a>
