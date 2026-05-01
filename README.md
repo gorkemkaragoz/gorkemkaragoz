@@ -33,11 +33,9 @@ I build REST APIs with clean architecture and a strong emphasis on security and 
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Most Used Languages
 
-![Görkem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gorkemkaragoz&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gorkemkaragoz&layout=compact&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gorkemkaragoz&layout=compact&theme=default&hide_border=true&langs_count=6)
 
 ---
 
