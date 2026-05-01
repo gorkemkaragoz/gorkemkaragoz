@@ -1,43 +1,48 @@
-## About Me
+## 👋 Hi, I'm Görkem
 
--  Hi, I'm Görkem — a backend developer passionate about **Java & Spring Boot**
--  I love building clean, well-structured REST APIs and constantly improving my craft
--  I learn by doing — every concept I study gets turned into a working project
--  Actively seeking a **backend developer role** where I can grow and contribute
+Backend developer focused on **Java & Spring Boot**.  
+I build REST APIs with clean architecture and a strong emphasis on security and code quality.
 
----
-
-## 🌐 Connect with me:
-<a href="https://www.linkedin.com/in/g%C3%B6rkem-karag%C3%B6z-91312a229/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-</a>
-<a href="https://www.hackerrank.com/profile/gorkem1928karag1" target="_blank">
-  <img src="hackerrank.png" alt="HackerRank" width="40" height="40"/>
-</a>
-<a href="https://medium.com/@gorkem1928karagoz" target="_blank">
-  <img src="medium.png" alt="Medium" width="40" height="40"/>
-</a>
+📍 Ankara, Turkey — Open to full-time backend roles
 
 ---
 
-## 🛠 Technologies:
+## 🛠 Tech Stack
+
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
 </p>
 
+`Java` `Spring Boot` `Spring Security` `REST API` `SQL` `Docker` `Git`
+
 ---
 
-## 🔧 Tools:
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" height="50"/>
-</p>
+## 📌 Featured Projects
+
+| Project | Stack | Description |
+|---|---|---|
+| [Hotel Reservation System](https://github.com/gorkemkaragoz/hotel-reservation) | Spring Boot · PostgreSQL · JWT | Full-featured reservation API with authentication and advanced querying |
+| [Auth Service](https://github.com/gorkemkaragoz/auth-service) | Spring Boot · Docker · MySQL | Stateless JWT auth with OTP password reset and Docker Compose setup |
+| [Gym Management System](https://github.com/gorkemkaragoz/Gym-Management-System) | Spring Boot · Angular · AWS S3 | Role-based management system with file upload and full-stack integration |
+| [Library Management](https://github.com/gorkemkaragoz/library-management) | Spring Boot · MySQL | RESTful library API with centralized exception handling |
+
+---
+
+## 📊 GitHub Stats
+
+![Görkem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gorkemkaragoz&show_icons=true&theme=default&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gorkemkaragoz&layout=compact&theme=default&hide_border=true)
+
+---
+
+## 🤝 Connect
+
+<a href="https://www.linkedin.com/in/g%C3%B6rkem-karag%C3%B6z-91312a229/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+</a>
