@@ -26,7 +26,7 @@ I build REST APIs with clean architecture and a strong emphasis on security and 
 
 | Project | Stack | Description |
 |---|---|---|
-| [Hotel Reservation System](https://github.com/gorkemkaragoz/hotel-reservation) | Spring Boot · PostgreSQL · JWT | Full-featured reservation API with authentication and advanced querying |
+| [Hotel Reservation System]([https://github.com/gorkemkaragoz/hotel-reservation](https://github.com/gorkemkaragoz/hotel-reservation-backend)) | Spring Boot · PostgreSQL · JWT | Full-featured reservation API with authentication and advanced querying |
 | [Auth Service](https://github.com/gorkemkaragoz/auth-service) | Spring Boot · Docker · MySQL | Stateless JWT auth with OTP password reset and Docker Compose setup |
 | [Gym Management System](https://github.com/gorkemkaragoz/Gym-Management-System) | Spring Boot · Angular · AWS S3 | Role-based management system with file upload and full-stack integration |
 | [Library Management](https://github.com/gorkemkaragoz/library-management) | Spring Boot · MySQL | RESTful library API with centralized exception handling |
